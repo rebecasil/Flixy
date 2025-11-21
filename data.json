@@ -1,0 +1,128 @@
+[
+{
+    "nome":"Station 19",
+    "descricao": "Um heroico grupo de bombeiros da Fire Station 19 de Seattle arrisca suas vidas e corações, tanto no horário de trabalho ou de folga.",
+    "sinopse": "A série foca nas vidas dos homens e mulheres na Estação de Bombeiros de Seattle 19.",
+    "ano": 2018,
+    "tipo": "Série",
+    "imagem": "https://mr.comingsoon.it/imgdb/serietv/serie/1760/1760.jpg",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-a7ef7150-7892-4c4e-830b-775f98094436"
+},
+{
+    "nome":"Heartland",
+    "descricao": "Drama familiar que segue as irmãs Amy e Lou Fleming, juntamente com seu avô Jack Bartlett, nos altos e baixos da vida em um rancho de cavalos.",
+    "sinopse": "Após a morte da mãe, as irmãs Amy e Lou se mudam para o rancho do avô para continuar o trabalho de cuidar de cavalos machucados e maltratados.",
+    "ano": 2007,
+    "tipo": "Série",
+    "imagem": "https://dc-nfn-cdn-images.newfaithnetwork.com/transform/1i8ggn3ohoqtvtza4j71i6xxu-6g5ajtm9e29ui8h3uqv9axlb2/MtqPCR7C6eiUGgx82T9rT.jpg?w=2880&h=4160&query=2880x4160",
+    "link":"https://www.netflix.com/br/title/70171946"
+},
+{
+    "nome": "Grey's Anatomy",
+    "descricao": "Drama médico norte-americano que foca na vida de médicos cirurgiões internos, residentes e atendentes.",
+    "sinopse": "Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos de vida ou morte, encontrando apoio, amizade e amor uns nos outros para conciliar os dramas profissionais e pessoais.",
+    "ano": 2005,
+    "tipo": "Série",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/94/Grey%27s_Anatomy_temporada_19.jpg",
+    "link": "https://www.disneyplus.com/pt-br/series/greys-anatomy/2LLf6a1u8b0g"
+},
+{
+    "nome": "The Office",
+    "descricao": "Uma comédia que retrata o cotidiano de um grupo de funcionários de escritório em formato de pseudodocumentário.",
+    "sinopse": "Na filial de Scranton da Dunder Mifflin, o gerente Michael Scott tenta ser o melhor amigo de seus funcionários, o que leva a situações embaraçosas e hilárias.",
+    "ano": 2005,
+    "tipo": "Série",
+    "imagem": "https://m.media-amazon.com/images/I/81vj15-NuoL.jpg",
+    "link": "https://www.netflix.com/br/title/70136120"
+},
+{
+    "nome": "Friends",
+    "descricao": "Seis jovens amigos de Nova York enfrentam os desafios da vida adulta, trabalho e relacionamentos com muito humor.",
+    "sinopse": "Rachel, Monica, Phoebe, Joey, Chandler e Ross compartilham suas alegrias, frustrações e romances, sempre se apoiando no café Central Perk ou em seus apartamentos.",
+    "ano": 1994,
+    "tipo": "Série",
+    "imagem": "https://br.web.img3.acsta.net/pictures/19/12/20/21/27/3055482.jpg",
+    "link": "https://www.max.com/br/pt/shows/friends/88056673-b039-4a35-91b3-3247a83b5363"
+},
+{
+    "nome": "Breaking Bad",
+    "descricao": "Um professor de química com câncer terminal se une a um ex-aluno para produzir e vender metanfetamina. [8, 9]",
+    "sinopse": "Para garantir o futuro financeiro de sua família, Walter White mergulha no perigoso submundo do tráfico de drogas, transformando-se no infame Heisenberg. [10]",
+    "ano": 2008,
+    "tipo": "Série",
+    "imagem": "https://image.tmdb.org/t/p/w500/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
+    "link": "https://www.netflix.com/br/title/70143836"
+},
+{
+    "nome": "A Origem",
+    "descricao": "Um ladrão especializado em extrair informações do inconsciente das pessoas durante o sono é contratado para uma missão aparentemente impossível: implantar uma ideia na mente de um alvo. [1, 2]",
+    "sinopse": "Dom Cobb é um habilidoso ladrão que rouba segredos valiosos do fundo do subconsciente durante o estado de sonho. Sua rara habilidade o tornou um jogador cobiçado no traiçoeiro mundo da espionagem corporativa, mas também o tornou um fugitivo internacional e lhe custou tudo o que amava. [3]",
+    "ano": 2010,
+    "tipo": "Filme",
+    "imagem": "https://image.tmdb.org/t/p/original/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+    "link": "https://www.max.com/br/pt/movies/a-origem/N_2535"
+},
+{
+    "nome": "O Cavaleiro das Trevas",
+    "descricao": "Com a ajuda do tenente Jim Gordon e do promotor público Harvey Dent, Batman tem a missão de destruir o crime organizado em Gotham City de uma vez por todas. [4, 5]",
+    "sinopse": "O Batman continua sua guerra contra o crime, mas um novo gênio do crime, o Coringa, surge em Gotham, mergulhando a cidade na anarquia e forçando o Cavaleiro das Trevas a se aproximar perigosamente da linha que separa o herói do vigilante. [6]",
+    "ano": 2008,
+    "tipo": "Filme",
+    "imagem": "https://image.tmdb.org/t/p/w500/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg",
+    "link": "https://www.max.com/br/pt/movies/batman-o-cavaleiro-das-trevas/M_2535"
+},
+{
+    "nome": "Pulp Fiction: Tempo de Violência",
+    "descricao": "As vidas de dois assassinos de aluguel, um boxeador, a esposa de um gângster e um casal de assaltantes se entrelaçam em quatro contos de violência e redenção. [7, 8]",
+    "sinopse": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que têm uma série de aventuras bizarras e interligadas. O filme é famoso por seus diálogos ecléticos, mistura irônica de humor e violência e narrativa não linear. [9]",
+    "ano": 1994,
+    "tipo": "Filme",
+    "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/5781-cartaz.jpg",
+    "link": "https://www.netflix.com/br/title/880640"
+},
+{
+    "nome": "Stranger Things",
+    "descricao": "Em uma pequena cidade, um grupo de amigos se envolve em uma série de eventos sobrenaturais após o desaparecimento misterioso de um garoto.",
+    "sinopse": "Quando um garoto desaparece, sua mãe, um chefe de polícia e seus amigos devem confrontar forças aterrorizantes para trazê-lo de volta, descobrindo um mundo secreto de experimentos e uma estranha garotinha.",
+    "ano": 2016,
+    "tipo": "Série",
+    "imagem": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "link": "https://www.netflix.com/br/title/80057281"
+},
+{
+    "nome": "Game of Thrones",
+    "descricao": "Nove famílias nobres lutam pelo controle das terras míticas de Westeros, enquanto um antigo inimigo retorna após estar adormecido por milênios.",
+    "sinopse": "Em uma terra onde os verões podem durar décadas e os invernos uma vida inteira, a cobiça e a intriga giram em torno do Trono de Ferro, o assento do poder dos Sete Reinos.",
+    "ano": 2011,
+    "tipo": "Série",
+    "imagem": "https://i.pinimg.com/564x/1d/c3/2b/1dc32b96dfc586a20e8caf0e0fd4d389.jpg",
+    "link": "https://www.max.com/br/pt/shows/game-of-thrones/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "Interestelar",
+    "descricao": "Com o futuro da Terra em jogo, um grupo de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "sinopse": "As reservas naturais da Terra estão chegando ao fim, e um grupo de astronautas recebe a missão de verificar possíveis planetas para receber a população mundial, possibilitando a continuação da espécie.",
+    "ano": 2014,
+    "tipo": "Filme",
+    "imagem": "https://m.media-amazon.com/images/I/91FhSXlwgjL._AC_UF894,1000_QL80_.jpg",
+    "link": "https://www.max.com/br/pt/movies/interestelar/M_2535"
+},
+{
+    "nome": "Parasita",
+    "descricao": "Uma comédia de humor ácido sobre riqueza, ganância e luta de classes, mostrando os esforços de uma família pobre para se infiltrar em uma casa rica.",
+    "sinopse": "Toda a família de Ki-taek está desempregada, vivendo em um porão sujo e apertado. Por obra do acaso, ele começa a dar aulas de inglês para uma garota de família rica. Fascinados com a vida luxuosa, pai, mãe e filhos bolam um plano para se infiltrarem na vida da família burguesa.",
+    "ano": 2019,
+    "tipo": "Filme",
+    "imagem": "https://img.elo7.com.br/product/zoom/2D25B68/big-poster-filme-parasita-2019-lo001-tamanho-90x60-cm-nerd.jpg",
+    "link": "https://www.netflix.com/br/title/81221142"
+},
+{
+    "nome": "The Mandalorian",
+    "descricao": "Após a queda do Império, um caçador de recompensas mandaloriano solitário navega pelos confins da galáxia, longe da autoridade da Nova República.",
+    "sinopse": "A jornada de um guerreiro mandaloriano que atua como caçador de recompensas e sua inesperada missão de proteger uma criança misteriosa e poderosa, conhecida como Grogu.",
+    "ano": 2019,
+    "tipo": "Série",
+    "imagem": "https://lumiere-a.akamaihd.net/v1/images/the_mandalorian_800d1505.jpeg",
+    "link": "https://www.disneyplus.com/pt-br/series/the-mandalorian/3jLIGMDYINqD"
+}
+]
