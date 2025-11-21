@@ -124,5 +124,95 @@
     "tipo": "Série",
     "imagem": "https://lumiere-a.akamaihd.net/v1/images/the_mandalorian_800d1505.jpeg",
     "link": "https://www.disneyplus.com/pt-br/series/the-mandalorian/3jLIGMDYINqD"
+},
+{
+    "nome": "O Urso",
+    "descricao": "Um jovem chef de cozinha de alta gastronomia retorna a Chicago para administrar a lanchonete de sua família.",
+    "sinopse": "Carmy, um jovem chef do mundo da alta gastronomia, volta para casa em Chicago para administrar a lanchonete de sua família após uma morte dolorosa. Ele precisa equilibrar as realidades esmagadoras de um pequeno negócio, uma equipe indisciplinada e relacionamentos familiares tensos.",
+    "ano": 2022,
+    "tipo": "Série",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/af/The_Bear_%28s%C3%A9rie_de_televis%C3%A3o%29.png",
+    "link": "https://www.starplus.com/pt-br/series/the-bear/52m6nxZ3D20a"
+},
+{
+    "nome": "The Last of Us",
+    "descricao": "Em um mundo pós-apocalíptico, um contrabandista endurecido tem a tarefa de escoltar uma adolescente que pode ser a chave para a cura de uma pandemia mortal.",
+    "sinopse": "Vinte anos após a civilização moderna ter sido destruída, Joel, um sobrevivente experiente, é contratado para contrabandear Ellie, uma garota de 14 anos, para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e comovente.",
+    "ano": 2023,
+    "tipo": "Série",
+    "imagem": "https://br.web.img3.acsta.net/img/d4/6b/d46b3917732e164e97af59abc0bb35bf.jpeg",
+    "link": "https://www.max.com/br/pt/shows/the-last-of-us/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "A Casa do Dragão",
+    "descricao": "Série derivada de 'Game of Thrones' que conta a história da guerra civil da Casa Targaryen, que aconteceu 200 anos antes dos eventos da série original.",
+    "sinopse": "A história da Casa Targaryen, ambientada 200 anos antes dos eventos de 'Game of Thrones', narra a ascensão e a queda da dinastia dos dragões, culminando em uma guerra civil conhecida como a 'Dança dos Dragões'.",
+    "ano": 2022,
+    "tipo": "Série",
+    "imagem": "https://uauposters.com.br/media/catalog/product/8/9/896320221026-uau-posters-house-of-the-dragon-casa-do-dragao-series-seriados-2.jpg",
+    "link": "https://www.max.com/br/pt/shows/a-casa-do-dragao/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "Wandinha",
+    "descricao": "Inteligente, sarcástica e apática, Wandinha Addams investiga uma série de assassinatos enquanto faz novos amigos e inimigos na Escola Nunca Mais.",
+    "sinopse": "A série segue Wandinha Addams enquanto ela frequenta a Escola Nunca Mais, tentando dominar suas habilidades psíquicas, frustrar uma monstruosa onda de assassinatos que aterroriza a cidade local e resolver o mistério sobrenatural que envolveu seus pais há 25 anos.",
+    "ano": 2022,
+    "tipo": "Série",
+    "imagem": "https://observatoriodocinema.com.br/wp-content/uploads/2023/09/Wandinha-poster.jpeg",
+    "link": "https://www.netflix.com/br/title/81231974"
+},
+{
+    "nome": "Oppenheimer",
+    "descricao": "A história do físico americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial.",
+    "sinopse": "O filme acompanha a trajetória de J. Robert Oppenheimer, o 'pai da bomba atômica', desde seus dias como estudante até seu tempo como diretor do Projeto Manhattan, explorando os dilemas morais e as consequências de sua criação.",
+    "ano": 2023,
+    "tipo": "Filme",
+    "imagem": "https://br.web.img2.acsta.net/pictures/23/05/08/10/29/0695770.jpg",
+    "link": "https://www.primevideo.com/detail/0U99BF66A9OL91S22H0F22A1B4"
+},
+{
+    "nome": "Barbie",
+    "descricao": "Depois de ser expulsa da Barbieland por não ser uma boneca de aparência perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.",
+    "sinopse": "Viver na Barbieland é ser um ser perfeito em um lugar perfeito. A menos que você tenha uma crise existencial completa. Ou você seja um Ken. Barbie e Ken são forçados a uma jornada de autodescoberta no mundo real após uma crise existencial.",
+    "ano": 2023,
+    "tipo": "Filme",
+    "imagem": "https://topview.com.br/wp-content/uploads/2023/07/cartaz-filme-barbie.jpeg",
+    "link": "https://www.max.com/br/pt/movies/barbie/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "Pobres Criaturas",
+    "descricao": "A fantástica evolução de Bella Baxter, uma jovem que é trazida de volta à vida pelo brilhante e heterodoxo cientista Dr. Godwin Baxter.",
+    "sinopse": "Trazida de volta à vida por um cientista, uma jovem foge com um advogado em uma aventura turbulenta pelo mundo. Livre dos preconceitos de sua época, ela se torna firme em seu propósito de defender a igualdade e a libertação.",
+    "ano": 2023,
+    "tipo": "Filme",
+    "imagem": "https://image.tmdb.org/t/p/original/etVS2cKunOlJE3E0pr1xYZ7hcMp.jpg",
+    "link": "https://www.starplus.com/pt-br/movies/poor-things/48CRb2nZg3bH"
+},
+{
+    "nome": "Homem-Aranha: Através do Aranhaverso",
+    "descricao": "Miles Morales é catapultado através do Multiverso, onde ele encontra uma equipe de Pessoas-Aranha encarregada de proteger sua própria existência.",
+    "sinopse": "Depois de se reunir com Gwen Stacy, o Homem-Aranha do Brooklyn é jogado no Multiverso, onde encontra uma equipe de Pessoas-Aranha. Quando os heróis entram em conflito sobre como lidar com uma nova ameaça, Miles deve redefinir o que significa ser um herói.",
+    "ano": 2023,
+    "tipo": "Filme",
+    "imagem": "https://img.elo7.com.br/product/zoom/4AF71CD/big-poster-homem-aranha-atraves-do-aranhaverso-90x60-cm-008-poster.jpg",
+    "link": "https://www.max.com/br/pt/movies/homem-aranha-atraves-do-aranhaverso/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "Duna: Parte Dois",
+    "descricao": "Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família.",
+    "sinopse": "Paul Atreides continua sua jornada mítica, agora unido a Chani e aos Fremen. Em um caminho de vingança contra aqueles que destruíram sua família, ele se depara com uma escolha entre o amor de sua vida e o destino do universo conhecido.",
+    "ano": 2024,
+    "tipo": "Filme",
+    "imagem": "https://play-lh.googleusercontent.com/x9dVuJi3X9-2YZiMeNZIWwdgDfeJ93Z8WgL14zU85ihkSc1ZldavJlEZNPANheZWcWpg8a0YQkzk64OK1d8",
+    "link": "https://www.max.com/br/pt/movies/duna-parte-dois/86a79863-126c-4749-96d1-549321f035c5"
+},
+{
+    "nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
+    "descricao": "Uma imigrante chinesa exausta é arrastada para uma aventura insana, onde só ela pode salvar o mundo explorando outros universos.",
+    "sinopse": "Evelyn Wang, uma proprietária de lavanderia sobrecarregada, descobre que tem o poder de explorar vidas alternativas em outros universos. Ela deve usar essa habilidade para lutar contra um mal bizarro que ameaça destruir o multiverso.",
+    "ano": 2022,
+    "tipo": "Filme",
+    "imagem": "https://br.web.img2.acsta.net/pictures/22/05/16/17/59/5165498.jpg",
+    "link": "https://www.primevideo.com/detail/0I5S0S7A0H0G0J0C0A0D0I0B0A"
 }
 ]
