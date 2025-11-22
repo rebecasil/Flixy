@@ -81,7 +81,7 @@ function renderizarCards(dados) {
             </div>
             <p>${dado.descricao}</p>
             <p class="sinopse">${dado.sinopse}</p>
-            <a href="${dado.link}" target="_blank">Saiba mais</a>
+            <a href="${dado.link}" target="_blank">Assista já</a>
         </div>
         `
         // Adiciona o <article> criado e preenchido como um elemento filho do 'cardContainer' no documento HTML.
