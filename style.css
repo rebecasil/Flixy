@@ -5,10 +5,10 @@
 }
 
 :root {
-    --primary-color: #ce0202; /* Cor primária (azul claro) */
+    --primary-color: red; /* Cor primária (azul claro) */
     --secondary-color: #565656; /* Cor secundária (cinza claro) */
     --tertiary-color: #383636; /* Cor terciária (cinza médio) */
-    --accent-color: #690000; /* Cor de destaque (amarelo/dourado) - SUGESTÃO */
+    --accent-color: #810000; /* Cor de destaque (amarelo/dourado) - SUGESTÃO */
     --bg-color: #000000; /* Cor de fundo (cinza escuro) */    
 }
 
@@ -148,7 +148,7 @@ article img {
 }
 
 .tipo {
-    background-color: var(--primary-color);
+    background-color: #CCCCCC;
     color: var(--bg-color);
     padding: 0.2rem 0.6rem;
     border-radius: 1rem;
@@ -156,6 +156,14 @@ article img {
     font-weight: bold;
     text-transform: uppercase;
     white-space: nowrap;
+}
+
+/* Estilo para o container principal */
+#catalogo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3); /* Adiciona uma sombra */
 }
 
 article:hover {
@@ -183,17 +191,27 @@ article p {
 
 article p strong {
     color: var(--tertiary-color); /* Cor do texto em negrito */
-    font-weight: 400; /* Peso da fonte */
+    font-weight: 300; /* Peso da fonte */
 }
 
 article a {
-    color: var(--primary-color); /* Cor do link */
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.2rem 0.6rem;
+    background-color: red;
+    color: var(--bg-color);
     text-decoration: none; /* Remove o sublinhado padrão */
-    font-weight: 200; /* Peso da fonte */
+    font-weight: bold;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    text-transform: uppercase;
+    width: fit-content;
 }
 
 article a:hover {
-    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+    background-color: var(--accent-color);
+    transform: scale(1.05);
 }
 
 /* Customização da Barra de Rolagem */
@@ -304,6 +322,7 @@ html {
 @media (max-width: 480px) {
     header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
         font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+        font-size: 1.8rem; /* Reduz ainda mais o tamanho da fonte */
         max-width: 70%; /* Define uma largura máxima */
         word-wrap: break-word; /* Permite a quebra de palavras longas */
     }
